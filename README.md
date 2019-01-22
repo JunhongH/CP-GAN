@@ -4,7 +4,7 @@
 
 ![Architecture of CP-GAN](./imgs/CP_GAN_structure.png)
 
-![Cropping and padding scheme](./img/cropping_and_padding.png)
+![Cropping and padding scheme](./imgs/cropping_and_padding.png)
 ## Requirements
 
 * python 2.7
