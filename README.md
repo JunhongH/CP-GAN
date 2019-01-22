@@ -3,7 +3,7 @@
 ## Architecture of the proposed method(CP-GAN)
 
 ![Architecture of CP-GAN](./imgs/CP_GAN_structure.png)
-
+## The cropping and padding scheme
 ![Cropping and padding scheme](./imgs/cropping_and_padding.png)
 ## Requirements
 
@@ -27,7 +27,7 @@ Run training.
 bash run_train.sh
 ```
 
-```
+
 
 ## Citation
 If you find *CP-GAN* useful in your research, please consider to cite the following related papers:
