@@ -24,7 +24,7 @@ bash ./scripts/test_single_image.sh
 ```
 Run training.
 ```Shell
-bash run_train.sh
+bash ./scripts/run_train.sh
 ```
 
 
