@@ -17,7 +17,7 @@
 ```
 Run testing.
 ```Shell
-bash ./scripts/test_single_image.sj
+bash ./scripts/test_single_image.sh
 ```
 
 ## Training
